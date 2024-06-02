@@ -24,7 +24,7 @@ It has the dark theme option.
 1. Clone the repository:
     ```bash
     git clone https://github.com/Nagoluaadhi/responsive-landing-page.git
-    cd app-landing-page
+    cd responsive-landing-page
     ```
 
 2. Install dependencies:
