@@ -43,12 +43,6 @@ It has the dark theme option.
 
 Deployed on Vercel: [Live Demo](https://remine-assignment.vercel.app/)
 
-## Libraries Used
-
-- Next.js
-- Tailwind CSS
-- Styled-Components
-
 ## License
 
 MIT License
