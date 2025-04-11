@@ -1,7 +1,7 @@
 # responsive-landing-page
 A mobile-responsive landing page built using **Next.js**, **Tailwind CSS**, and **TypeScript**, based on a [Figma design](https://www.figma.com/design/g02xVBnKxTuNDvm0EPpewQ/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community-?node-id=204-686&t=xloSf3HrbdaFvY58-4).
 ## 🚀 Live Demo
-👉 [View Live](https://responsive-landing-page.vercel.app)
+👉 [View Live](https://responsive-landing-page-seven-gilt.vercel.app)
 ## 📁 Features
 - ⚡ Fully responsive for mobile, tablet, and desktop
 - 🎨 Tailwind CSS for utility-first styling
